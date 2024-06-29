@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sengleaph" alt="sengleaph" /></a> </p>
 
-- 🔭 I’m currently working on [POS system on android](https://github.com/sengleaph/App_Pos)
+- 🔭 I’m currently working on [POS system on android]
 
 - 🌱 I’m currently learning **Flutter Development, Laravel, Spring Boot, React JS and Java Mobile Development**
 
