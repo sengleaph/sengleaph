@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sengleaph or you can call me SiFu</h1>
 <h3 align="center">A passionate on the mobile app development and web app development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sengleaph&label=Profile%20views&color=0e75b6&style=flat" alt="sengleaph" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sengleaph" alt="sengleaph" /></a> </p>
 
 - 🔭 I’m currently working on [POS system on android]
 
